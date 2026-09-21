@@ -20,11 +20,11 @@ This project is a recreation of the classic Pac-Man arcade game developed as a s
 ## Gameplay Screenshots
 | Title Screen | Gameplay | Level Up |
 |---|---|---|
-| ![Title Screen](screenshots/titlesnip.PNG) | ![Gameplay Screen](screenshots/gameplaysnip.PNG) | ![Level Up](screenshots/levelup.PNG) |
+| ![Title Screen](screenshots/titlesnip.png) | ![Gameplay Screen](screenshots/gameplaysnip.png) | ![Level Up](screenshots/levelup.png) |
 
 | Pause | Victory | Game Over |
 |---|---|---|
-| ![Pause](screenshots/pacmanPause.png) | ![Victory](screenshots/victory.png) | ![Game Over](screenshots/gameoverscreen.png) |
+| ![Pause](screenshots/pacmanpause.png) | ![Victory](screenshots/victory.png) | ![Game Over](screenshots/gameoverscreen.png) |
 ## Contributors
 ### Elise Tinker and Shay Sehgal 
 Created Spring 2022 as the cumulative project for my senior year game development class.
